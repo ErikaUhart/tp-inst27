@@ -1,0 +1,81 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "lentejas",
+        "presentaciones": [
+            {
+                "id": 1,
+                "envase": "carton"
+            },
+            {
+                "id":2,
+                "envase": "lata"
+            },
+            {
+                "id":3,
+                "envase": "bolsa"
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "nombre": "pure de tomate",
+        "presentaciones":[
+            {
+                "id":1,
+                "medida": "210 g"
+            },
+            {
+                "id":2,
+                "medida": "520 g"
+            },
+            {
+                "id":3,
+                "medida": "1 lt"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "huevos",
+        "presentaciones":[
+            {
+                "id": 1,
+                "cantidad": "6 unidades"
+            },
+            {
+                "id": 2,
+                "cantidad": "12 unidades"
+            },
+            {
+                "id": 3,
+                "cantidad": "24 unidades"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "nombre": "jugo",
+        "presentaciones":[
+            {
+                "id": 1,
+                "medida": "125ml"
+            },
+            {
+                "id": 2,
+                "medida": "200ml"
+            },
+            {
+                "id": 3,
+                "medida": "500ml"
+            },
+            {
+                "id": 4,
+                "medida": "500ml"
+            }
+
+        ]
+    }
+]
